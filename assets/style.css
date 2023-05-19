@@ -1,0 +1,15 @@
+body{
+    color: black;
+}
+
+h1{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    font-size: 5rem;
+}
+
+#countdown{
+    text-align: center;
+    font-size: 3rem;
+}
